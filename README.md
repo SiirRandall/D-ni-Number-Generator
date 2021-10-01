@@ -13,8 +13,10 @@ To run just type python Convert.py
 There are two scripts for Mac and Windows.
 
 Mac 
+
 convert.command
 
 Pc
+
 convert.bat
 
